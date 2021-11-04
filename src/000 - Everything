@@ -1,0 +1,14 @@
+.bat: the file extension used for a batch script
+
+set: used to see all variables
+    and used to set a variable:
+        ex. 'set message=hello'
+REM: used to create a comment
+    ex. 'REM This is a Comment'
+echo: used to print something to the console
+    ex. 'echo This messsage'
+@echo off: only displays what is being printed out
+@echo on: displays every line of the script
+pause: pauses the script and waits for user input
+variable access: you can use two '%' to access a variable
+    ex. '%variable%'
