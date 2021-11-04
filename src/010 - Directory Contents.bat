@@ -7,10 +7,10 @@ dir
 
 pause
 
-REM - To naviage directories, lets say to folder '010and011', insert the desired folder after the 'dir' command, then use dir again to see the contents
+REM - To naviage directories, lets say to folder 'sample', insert the desired folder after the 'dir' command, then use dir again to see the contents
 
-dir 010and011 dir
+dir sample dir
 
-REM - You will see that the directory '010and011' is empty
+REM - You will see that the directory 'sample' has one file
 
 pause
